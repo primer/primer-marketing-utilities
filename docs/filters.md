@@ -15,5 +15,5 @@ Filter utility classes can be applied to divs or images to apply visual effects.
 Applying `.grayscale` to an element will remove all of its colors, and make it render in black and white.
 
 ```html
-<img src="<%= image_path "modules/sitenextnext/home-illo-business.svg" %>" class="img-responsive grayscale" alt="">
+<img src="<%= image_path "modules/site/home-illo-business.svg" %>" class="img-responsive grayscale" alt="">
 ```
