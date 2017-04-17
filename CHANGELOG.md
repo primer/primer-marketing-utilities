@@ -1,3 +1,8 @@
+# v0.1.2
+
+ * incorporate @broccolini's feedback - Sophie Shepherd [github/github@d7335bb](https://github.com/github/github/commit/d7335bb)fe4e
+ * oops i forgot borders should go in primer-marketing - Sophie Shepherd [github/github@b010e2c](https://github.com/github/github/commit/b010e2c)4d15
+
 # v0.0.2
 
  * correct build urls - broccolini [github/github@c70b22c](https://github.com/github/github/commit/c70b22c)
