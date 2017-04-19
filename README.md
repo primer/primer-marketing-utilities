@@ -38,6 +38,7 @@ $ npm run build
 ## License
 
 [MIT](./LICENSE) &copy; [GitHub](https://github.com/)
+
 [primer-css]: https://github.com/primer/primer
 [docs]: http://primercss.io/
 [npm]: https://www.npmjs.com/
